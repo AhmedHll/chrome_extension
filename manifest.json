@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "1.1",
+    "name": "Save URL",
+    "description": "This extension helps you to save your current active url by just one click on SAVE TAB button or you can add and link Manual then click on SAVE INPUT button to save it in local storage to return back to it any time, you can double click on DELETE ALL button to clear all saved tabs ",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
